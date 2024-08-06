@@ -7,15 +7,24 @@
 
 tktk Write a short but descriptive summary of the content in this module.
 
+## Suggested Agenda
+
+| Time      | Activity                                     |
+| --------- | -------------------------------------------- |
+| 0:00–0:50 | Welcome + Modules                            |
+| 0:50–1:00 | Break                                        |
+| 1:00–1:50 | Scripting                                    |
+| 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
+
 ## Content
 
-| Lesson                                              | Video Time | Video | Skills                                  |
-| --------------------------------------------------- | :--------: | :---: | --------------------------------------- |
-| [Setup](./setup/README.md)                          |     --     |  --   | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    |     --     |  --   | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-01/README.md) |     --     |  --   | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-02/README.md) |     --     |  --   | tktk skills covered                     |
-| **Total content**                                   |     --     |  --   |                                         |
+| Lesson                                                                       | Skills                                                    |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [Setup](./setup/README.md)                                                   | Setting up the development environment.                   |
+| [Intro to Modules and Scripting](./intro-to-modules-and-scripting/README.md) | tktk skills covered                                       |
+| [Modules](./modules/README.md)                                               | tktk skills covered                                       |
+| [Scripting](./scripting/README.md)                                           | tktk skills covered                                       |
+| [Wrap Up](./wrap-up/README.md)                                               | Reviewing key concepts and preparing for the next module. |
 
 ## References
 
@@ -25,9 +34,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Python Functions
 
 ### Deployed sites
 
