@@ -67,15 +67,15 @@ Libraries, packages, and modules need to be installed in order to use these tool
 %pip install library_name
 ```
 
+![Image Placeholder](TKTK)
+
+> The `%` sign tells Anaconda/Jupyter to run the line as a shell command.
+
 If you want to import only one module from a package:
 
 ```python
 from package_name import module
 ```
-
-![Image Placeholder](TKTK)
-
-> The `%` sign tells Anaconda/Jupyter to run the line as a shell command.
 
 > Python package installation can be tricky outside of this context, so hopefully a simple `pip install` in Jupyter Notebook will do the trick.
 

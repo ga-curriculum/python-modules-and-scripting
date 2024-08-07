@@ -85,7 +85,7 @@ with open("log.txt", "a") as log:
 
 ## Partner Exercise: 6.3 So Much to Do... 10 min TKTK
 
-Add a comment to each line of the “to-do list” script in Section 6.3 of the notebook.
+Add a comment to each line of the “to-do list” script in **Section 6.3** of the notebook.
 
 ![Image Placeholder](TKTK)
 
