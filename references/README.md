@@ -5,5 +5,5 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Python’s Standard Documentation](https://docs.python.org/3/library/random.html)
 

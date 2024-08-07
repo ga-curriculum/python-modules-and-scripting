@@ -34,7 +34,8 @@ As you plan for your lesson:
 
 | Time      | Activity                                     |
 | --------- | -------------------------------------------- |
-| 0:00–0:50 | Welcome + Modules                            |
+| 0:00–0:10 | Welcome + Introduction                       |
+| 0:10–0:50 | Modules                                      |
 | 0:50–1:00 | Break                                        |
 | 1:00–1:50 | Scripting                                    |
 | 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |

@@ -9,24 +9,32 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+introToModulesAndScripting = new Template.Microlesson {
+  friendlyName = "Intro to Modules and Scripting"
+  dirName = "intro-to-modules-and-scripting"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+modules = new Template.Microlesson {
+  friendlyName = "Modules"
+  dirName = "modules"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+scripting = new Template.Microlesson {
+  friendlyName = "Scripting"
+  dirName = "scripting"
   type = "Content"
   videoUrl = ""
 }
+
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}
+
 
