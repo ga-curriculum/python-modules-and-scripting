@@ -83,7 +83,7 @@ from package_name import module
 
 ## Group Exercise: 6.2 Geocoder Road Trip 20 min TKTK
 
-Install and use the “geocoder” library for the challenges in **Section 6.2**.
+Install and use the "geocoder" library for the challenges in **Section 6.2**.
 
 The purpose of this activity is to:
 

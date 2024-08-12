@@ -67,7 +67,7 @@ log.close()
 
 ## Open for Business
 
-When accessing files, you need to specify the “mode” in which the file should be opened.
+When accessing files, you need to specify the "mode" in which the file should be opened.
 
 You must also be sure to close the file after working with it. Use the following pattern to let Python do that for you automatically:
 
@@ -85,7 +85,7 @@ with open("log.txt", "a") as log:
 
 ## Partner Exercise: 6.3 So Much to Do... 10 min TKTK
 
-Add a comment to each line of the “to-do list” script in **Section 6.3** of the notebook.
+Add a comment to each line of the "to-do list" script in **Section 6.3** of the notebook.
 
 ![Image Placeholder](TKTK)
 
