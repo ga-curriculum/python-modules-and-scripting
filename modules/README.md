@@ -17,7 +17,7 @@
 - Well-known patterns for easy collaboration.
 - The ability to focus on your application’s higher-level needs.
 
-> 🍎 You will encounter numerous modules that others have written. They are free to use, and you can think of them as extensions of Python's functionality.
+> 💡 You will encounter numerous modules that others have written. They are free to use, and you can think of them as extensions of Python's functionality.
 
 ## Importing from the Standard Library
 
@@ -33,7 +33,7 @@ import random
 random_die_roll = random.randint(1, 6)
 ```
 
-> 🍎 Other modules may need to be separately downloaded; we'll get to this later. The Python Standard Library will never need to be downloaded separately, it’s always just an import statement away.
+> 💡 Other modules may need to be separately downloaded; we'll get to this later. The Python Standard Library will never need to be downloaded separately, it’s always just an import statement away.
 
 ## Read the Docs
 
@@ -43,7 +43,12 @@ The downside of borrowing someone else's code is having no idea how to use it �
 
 ![Image Placeholder](TKTK)
 
-## Solo Exercise: 6.1 Games of Chance 20 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">6.1 Games of Chance</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 Let’s explore the `random` module using some challenges involving random chance. Read the documentation to discover helpful methods for each task.
 
@@ -81,7 +86,12 @@ from package_name import module
 
 > Sometimes, a package contains just one module, which is OK. This may seem strange, but will become more familiar over time.
 
-## Group Exercise: 6.2 Geocoder Road Trip 20 min TKTK
+<br>
+
+<div class="activity group-exercise">
+  <h2 class="title">6.2 Geocoder Road Trip</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 Install and use the "geocoder" library for the challenges in **Section 6.2**.
 

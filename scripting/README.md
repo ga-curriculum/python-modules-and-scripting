@@ -31,7 +31,7 @@ When people refer to **scripts**, they usually mean code that:
 
 We have "Performs a task" down! Let’s look at how we can build useful tools in Python by combining these other layers in our programs.
 
-> 🍎 One of the strongest use cases for Python is writing helpful scripts to automate work tasks or create helpful tools for yourself. Scripting will open up our ability to interact with files and provide meaningful input to our Python code; in other words, to start building useful things!
+> 💡 One of the strongest use cases for Python is writing helpful scripts to automate work tasks or create helpful tools for yourself. Scripting will open up our ability to interact with files and provide meaningful input to our Python code; in other words, to start building useful things!
 
 ## Input From Users and Files
 
@@ -83,7 +83,12 @@ with open("log.txt", "a") as log:
 | `'a'`    | Append new contents to the end of the file. |
 | `'+'`    | Add to any mode to include read and write.  |
 
-## Partner Exercise: 6.3 So Much to Do... 10 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">6.3 So Much to Do...</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 Add a comment to each line of the "to-do list" script in **Section 6.3** of the notebook.
 
@@ -97,7 +102,12 @@ Let’s explore a basic module called **"csv"** for just this purpose.
 
 ![Image Placeholder](TKTK)
 
-## Discussion: What Are Spreadsheets Made Of? TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">What Are Spreadsheets Made Of?</h2>
+  <span class="minutes"></span>
+</div>
 
 Before we start manipulating `.csv` files in Python, let’s reflect:
 
@@ -129,7 +139,12 @@ A list of dictionaries, because a list preserves the order of the rows.
 
 </details>
 
-## Discussion: Reading and Writing TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Reading and Writing</h2>
+  <span class="minutes"></span>
+</div>
 
 Let’s explore how we would read and write to a `.csv` file by consulting the [documentation for the csv library](https://docs.python.org/3/library/csv.html#).
 
@@ -143,19 +158,34 @@ Take a few minutes to explore the documentation before we discuss the answers. T
 
 Remember, an essential skill when using libraries is learning how to read and interpret their documentation effectively.
 
-## Partner Exercise: 6.4 TPS Reports 20 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">6.4 TPS Reports</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 Let's translate a given list of dictionaries into a `.csv` file using the csv module.
 
 ![Image Placeholder](TKTK)
 
-## Discussion: Automating With Python TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Automating With Python</h2>
+  <span class="minutes"></span>
+</div>
 
 One of the main uses of Python as a productivity tool is creating reusable scripts to analyze and generate `.csv` files.
 
 **_What regularly scheduled processes can you anticipate creating a Python analysis script for, either for your own role or to enhance the productivity of another team member?_**
 
-## Solo Exercise: 6.5 Ultimate RPS Challenge 20 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">6.5 Ultimate RPS Challenge</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 As a bonus challenge, let’s use our `.csv`-writing abilities to keep track of all of the games played from a command line version of Rock, Paper, Scissors.
 
