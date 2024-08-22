@@ -18,7 +18,7 @@ Armed with the foundational building blocks of Python, we can start creating gen
 - Formatting files.
 - Processing data.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## What’s a Script?
 
@@ -92,7 +92,7 @@ with open("log.txt", "a") as log:
 
 Add a comment to each line of the "to-do list" script in **Section 6.3** of the notebook.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## With These Powers Combined...
 
@@ -100,7 +100,7 @@ Managing files manually can get a bit awkward. Fortunately, there are plenty of 
 
 Let’s explore a basic module called **"csv"** for just this purpose.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 <br>
 
@@ -167,7 +167,7 @@ Remember, an essential skill when using libraries is learning how to read and in
 
 Let's translate a given list of dictionaries into a `.csv` file using the csv module.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 <br>
 

@@ -42,7 +42,7 @@ As you plan for your lesson:
 
 ## Jupyter Notebook
 
-The exercises referenced in this lesson can be found in the [Python Workbooks Repo](#).
+The exercises referenced in this lesson can be found in the [Python Fundamentals Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises).
 
 If students feel that they are able to confidently solve the challenges in the workbook, you can quickly skim through the lesson content and have them only complete the challenges.
 
