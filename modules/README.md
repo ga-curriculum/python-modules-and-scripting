@@ -61,7 +61,7 @@ These libraries are often organized into one or more **packages**.
 
 Packages can be organized further into one or more **modules**.
 
-![Image Placeholder](./assets/modules.png)
+<img src="./assets/library-modules.png" alt="Library Modules Image" style="width: 800px; height: auto;">
 
 ## Package Delivery
 
@@ -70,8 +70,6 @@ Libraries, packages, and modules need to be installed in order to use these tool
 ```bash
 %pip install library_name
 ```
-
-<img src="./assets/library-modules.png" alt="Library Modules Image" style="width: 800px; height: auto;">
 
 > The `%` sign tells Anaconda/Jupyter to run the line as a shell command.
 
@@ -100,3 +98,4 @@ The purpose of this activity is to:
 - Practice reading documentation given one clear direction.
 - Reinforce basic logic skills in Python by using lists and conditionals.
 
+<img src="./assets/car.png" alt="Car Image" style="width: 300px; height: auto;">
