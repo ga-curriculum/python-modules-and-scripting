@@ -18,7 +18,7 @@ Armed with the foundational building blocks of Python, we can start creating gen
 - Formatting files.
 - Processing data.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/gears.png" alt="Gears Image" style="width: 300px; height: auto;">
 
 ## What’s a Script?
 
@@ -92,7 +92,7 @@ with open("log.txt", "a") as log:
 
 Add a comment to each line of the "to-do list" script in **Section 6.3** of the notebook.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/speech-bubble.png" alt="Speech Bubble Image" style="width: 300px; height: auto;">
 
 ## With These Powers Combined...
 
@@ -100,7 +100,7 @@ Managing files manually can get a bit awkward. Fortunately, there are plenty of 
 
 Let’s explore a basic module called **"csv"** for just this purpose.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/file.png" alt="File Image" style="width: 300px; height: auto;">
 
 <br>
 
@@ -167,7 +167,7 @@ Remember, an essential skill when using libraries is learning how to read and in
 
 Let's translate a given list of dictionaries into a `.csv` file using the csv module.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/pen-and-paper.png" alt="Pen and Paper" style="width: 300px; height: auto;">
 
 <br>
 
@@ -187,6 +187,6 @@ One of the main uses of Python as a productivity tool is creating reusable scrip
   <span class="minutes">20 min</span>
 </div>
 
-As a bonus challenge, let’s use our `.csv`-writing abilities to keep track of all of the games played from a command line version of Rock, Paper, Scissors.
+As a bonus challenge, let’s use our `.csv`-writing abilities to keep track of all of the games played from a command line version of **_Rock, Paper, Scissors_**.
 
 _If you are not able to finish this exercise in the given class time, we encourage you to complete it as homework._

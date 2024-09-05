@@ -41,7 +41,7 @@ The downside of borrowing someone else's code is having no idea how to use it â€
 
 [Pythonâ€™s Standard Documentation](https://docs.python.org/3/library/random.html) provides a good place to begin reading up on the `random` module. Other modules may have different documentation sources.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/open-book.png" alt="Open Book Image" style="width: 300px; height: auto;">
 
 <br>
 
@@ -52,7 +52,6 @@ The downside of borrowing someone else's code is having no idea how to use it â€
 
 Letâ€™s explore the `random` module using some challenges involving random chance. Read the documentation to discover helpful methods for each task.
 
-<!-- ![Image Placeholder](TKTK) -->
 
 ## Library Hierarchy
 
@@ -72,7 +71,7 @@ Libraries, packages, and modules need to be installed in order to use these tool
 %pip install library_name
 ```
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/library-modules.png" alt="Library Modules Image" style="width: 800px; height: auto;">
 
 > The `%` sign tells Anaconda/Jupyter to run the line as a shell command.
 
@@ -101,4 +100,3 @@ The purpose of this activity is to:
 - Practice reading documentation given one clear direction.
 - Reinforce basic logic skills in Python by using lists and conditionals.
 
-<!-- ![Image Placeholder](TKTK) -->

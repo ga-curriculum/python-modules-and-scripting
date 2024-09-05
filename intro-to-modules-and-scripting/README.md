@@ -9,7 +9,7 @@
 | ------------------------------ | -------- |
 | Intro to Modules and Scripting | 5 min    |
 
-## Today’s Learning Objectives
+## Our Learning Goals
 
 In this Module, you will:
 
@@ -17,6 +17,8 @@ In this Module, you will:
 - Use import statements to access Python libraries.
 - Use Python scripts to automate tasks.
 - Create Python scripts to read and write to files.
+
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## Why Learn About Modules and Scripts?
 
