@@ -68,7 +68,7 @@ Packages can be organized further into one or more **modules**.
 Libraries, packages, and modules need to be installed in order to use these tools on your computer:
 
 ```bash
-pip install library_name
+%pip install library_name
 ```
 
 > The `%` sign tells Anaconda/Jupyter to run the line as a shell command.
